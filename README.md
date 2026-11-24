@@ -4,7 +4,6 @@
 
 ClearLedger-FL is a working federated learning platform simulating three independent hospital nodes (`Hospital A`, `Hospital B`, and `Hospital C`) that collaboratively train a diagnostic logistic regression classifier on the Wisconsin Breast Cancer Diagnostic (WDBC) dataset without exchanging raw patient records.
 
-> **Educational Scope Notice**: This software is an educational machine learning and cryptographic-audit engineering platform. It is not a certified medical device and does not claim HIPAA compliance or clinical diagnostic approval.
 
 ---
 
